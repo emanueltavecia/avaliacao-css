@@ -1,0 +1,2 @@
+Deploy do site:
+https://emanueltavecia.github.io/avaliacao-css/
